@@ -1,0 +1,96 @@
+#Z{
+    padding-top:5px;
+    border-bottom: 1px solid gray;
+}
+
+header{
+    padding-top: 5px;
+    flex-direction: row;
+    display: inline-flex;
+    height:30px;
+    width:100%;
+}
+header>a:hover{
+    transform: scale(1.2);
+    color: red;
+}
+header>a{
+    margin-left:40px;
+    font-size: 20px;
+    flex:1 200px;
+    text-decoration: none;
+}
+
+img{
+    border-radius: 140px;
+    float: left;
+    padding-right: 20px;
+    padding-top: 5px;
+    margin:0.67em;
+
+}
+#B>h1>h3>p{
+    float: left;
+    
+    
+    
+}
+.clear{
+    clear: left;
+   
+}
+#C{
+    padding-top: 4px;
+    border-bottom:1px solid gray;
+ 
+}
+#D{
+    border-bottom:1px solid gray;
+}
+#E{
+    border-bottom:1px solid gray;
+    
+}
+#F p{
+    float: left;
+    padding-right:162px;
+    
+}
+#G p{
+    float: left;
+    padding-right:55px;
+   
+}
+#H p{
+    float: left;
+    padding-right:20px;
+   
+}
+#I p{
+    float: left;
+    padding-right:20px;
+}
+#J p{
+    float: left;
+    padding-right:20px;
+}
+#K p{
+    float: left;
+    padding-right:20px;
+}
+#L p{
+    float: left;
+    padding-right:45px;
+}
+#M p{
+    float: left;
+    padding-right:45px;
+}
+ul{
+    list-style-type: none;
+}
+@media (max-width: 320px){
+    body{
+        width:100%;
+    }
+}
